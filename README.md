@@ -2,7 +2,7 @@
 This pipeline is designed to efficiently process a multilingual text corpus, including sentences with embedded English words and code-mixed text, primarily sourced from social media comments. 
 
 ## Architecture Overview
-![Translation_pipeline_image](https://github.com/user-attachments/assets/68bf8484-bdf0-4cdf-91fa-0f9b84f46e4a)
+![Translation_results](https://github.com/user-attachments/assets/f8bee477-6fe1-4d15-a49d-a2ad36283835)
 
 
 
